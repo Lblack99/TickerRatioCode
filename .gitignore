@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Stock P/E and PEG Ratio Calculator</title>
+</head>
+<body>
+    <h1>Stock P/E and PEG Ratio Calculator</h1>
+    <label for="stockTicker">Enter Stock Ticker:</label>
+    <input type="text" id="stockTicker">
+    <button onclick="calculateRatios()">Calculate Ratios</button>
+    <p id="result"></p>
+
+    <script>
+        function calculateRatios() {
+            // Implement the JavaScript code here to fetch data and calculate ratios
+        }
+    </script>
+</body>
+</html>
